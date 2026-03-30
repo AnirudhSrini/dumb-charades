@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DumbCharades_Version2",
   "resources": {
-    "hash": "sha256-FdmgE2t6cMS4qxdi3jBKyzgh7xXYe+zOevZegqTvCGA=",
+    "hash": "sha256-l/oDIoe6T3M6L52lvsTWhA2sXaSd0g9v0x8bXeNwpxs=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -61,7 +61,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-nhg9qXhlcX6gH3LtN08a/diwq9L/kZ7MBCPTsPojr/M=",
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "System.Private.CoreLib.wasm": "sha256-Q80cgdFdgrCo2YAXb9U1jsZ2HILa8g1EbGIeM5MFU60=",
-      "DumbCharades_Version2.wasm": "sha256-D25kUBziqAW9NHyOHQ+ElZwwUufNwzFhUIq78NxCPXE="
+      "DumbCharades_Version2.wasm": "sha256-ezWucXMa6YJHJhONvj/duIU32r+ThMXzbYXIWThms0E="
     }
   },
   "cacheBootResources": true,
